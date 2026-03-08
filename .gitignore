@@ -17,9 +17,8 @@ ENV/
 .streamlit/
 
 # Model Files (Large Files)
-model/*.h5
+
 model/*.keras
-*.h5
 *.keras
 
 # Dataset
